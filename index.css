@@ -117,7 +117,7 @@ form {
     cursor: pointer;
     font-size: 16px;
     font-weight: bold;
-    background-color: rgb(91, 45, 117);
+    background-color: black;
     color: white;
     margin-top: 10px;
 }
@@ -161,7 +161,7 @@ form {
     width: 80%;
     display: inline-flex;
     justify-content: space-between;
-    border: 2px solid rgb(91, 45, 117);
+    border: 2px solid black;
     border-radius: 8px;
     font-size: 25px;
     text-decoration: none;
@@ -189,7 +189,7 @@ form {
     cursor: pointer;
     font-size: 16px;
     font-weight: bold;
-    background-color: rgb(91, 45, 117);
+    background-color: black;
     color: white;
 }
 
@@ -199,7 +199,7 @@ form {
     left: -250%;
     width: 300%;
     height: 100%;
-    background: blueviolet;
+    background: black;
     border-radius: 150px;
     transition: 1.8s ease-in-out;
     z-index: 1;
@@ -228,7 +228,7 @@ form {
     width: 160px;
     height: 40px;
     background-color: transparent;
-    border: 2px solid #fff;
+    border: 2px solid white;
     box-shadow: none;
 }
 

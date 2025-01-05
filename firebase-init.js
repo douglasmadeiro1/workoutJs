@@ -1,9 +1,10 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyD4gwltyUBkWJi18-zw3TpHn4rQWSxK87Q",
-    authDomain: "jsproject-f2bd8.firebaseapp.com",
-    projectId: "jsproject-f2bd8",
-    storageBucket: "jsproject-f2bd8.firebasestorage.app",
-    messagingSenderId: "972587241614",
-    appId: "1:972587241614:web:737a292133c6a187d439df"
-};
+    apiKey: "AIzaSyBuOdjlqyho0s7l7qyCCJKT81qEdcy50TQ",
+    authDomain: "workoutjs-9b5c7.firebaseapp.com",
+    projectId: "workoutjs-9b5c7",
+    storageBucket: "workoutjs-9b5c7.firebasestorage.app",
+    messagingSenderId: "662532082156",
+    appId: "1:662532082156:web:f52d11b59433654fe318c9",
+    measurementId: "G-ZRG7XGEJG6"
+  };
 firebase.initializeApp(firebaseConfig);
